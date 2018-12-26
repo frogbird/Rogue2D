@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/MapHandler.cs">
+    <Files>
+      <File FileName="Assets/Code/Player.cs" Line="278" Column="10" />
+      <File FileName="Assets/Code/GunScripts/Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/EnemyTurret.cs" Line="19" Column="5" />
+      <File FileName="Assets/Code/Damager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Damageable.cs" Line="78" Column="76" />
+      <File FileName="Assets/Code/PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/ScriptableObjects/PrimaryWeapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/ScriptableObjects/SecondaryWeapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/ScriptableObjects/Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/MapHandler.cs" Line="64" Column="67" />
+      <File FileName="Assets/Code/TileGenerator.cs" Line="79" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
